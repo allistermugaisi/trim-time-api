@@ -174,5 +174,10 @@
 				"Head camo"
 			]
 		}
-	]
+	],
+	"appointments": [],
+	"payments": [],
+	"reviews": [],
+	"rewards": [],
+	"notifications": []
 }
