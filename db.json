@@ -1,0 +1,13 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"type": "client",
+			"name": "Allister Mugaisi",
+			"email": "allistermugaisi@example.com",
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
+		}
+	]
+}
