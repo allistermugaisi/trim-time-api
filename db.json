@@ -3,6 +3,7 @@
 		{
 			"id": 1,
 			"type": "client",
+			"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/v1689233937/trim-time/faded-beard-with-a-messy-top-and-mid-fade_d03usf.jpg",
 			"name": "Allister Mugaisi",
 			"email": "allistermugaisi@example.com",
 			"password": "test@123",
