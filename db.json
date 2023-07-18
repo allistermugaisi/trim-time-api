@@ -24,6 +24,7 @@
 	"barbers": [
 		{
 			"id": 1,
+			"type": "barber",
 			"name": "Scott Logan",
 			"email": "scottlogan@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233942/trim-time/Low-fade-haircut-with-full-beard-gray-abbas_ahmadifard_yth3fp.jpg",
@@ -45,6 +46,7 @@
 		},
 		{
 			"id": 2,
+			"type": "barber",
 			"name": "Keith Miller",
 			"email": "keithmiller@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233938/trim-time/beard-with-mid-fade_tfi0cq.jpg",
@@ -66,6 +68,7 @@
 		},
 		{
 			"id": 3,
+			"type": "barber",
 			"name": "Shawn Sims",
 			"email": "shawnsims@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233940/trim-time/full-beard-and-undercut-fade_c2e1ed.jpg",
@@ -87,6 +90,7 @@
 		},
 		{
 			"id": 4,
+			"type": "barber",
 			"name": "Marcus Tyler",
 			"email": "marcustyler@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233937/trim-time/long-messy-top-with-a-faded-beard-for-men_zijrhs.jpg",
@@ -102,6 +106,7 @@
 		},
 		{
 			"id": 5,
+			"type": "barber",
 			"name": "Eric Cross",
 			"email": "ericcross@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233937/trim-time/7374005ebb2fb14f77171024529dc17e_xm6xht.jpg",
@@ -117,6 +122,7 @@
 		},
 		{
 			"id": 6,
+			"type": "barber",
 			"name": "Virginia Clarke",
 			"email": "virginiaclarke@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234043/trim-time/modern-hairstyles-1x1-1_csrdvn.jpg",
@@ -138,6 +144,7 @@
 		},
 		{
 			"id": 7,
+			"type": "barber",
 			"name": "Jane Nguma",
 			"email": "janenguma@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234045/trim-time/short-hairstyles-for-women-over-50_r566fd.jpg",
@@ -159,6 +166,7 @@
 		},
 		{
 			"id": 8,
+			"type": "barber",
 			"name": "Mercy Njebiu",
 			"email": "mercynjebiu@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/2-feminine-blonde-short-haircut-with-skin-fade_m2ebp4.jpg",
@@ -180,6 +188,7 @@
 		},
 		{
 			"id": 9,
+			"type": "barber",
 			"name": "Nancy Akinyi",
 			"email": "nancyakinyi@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/hottest-short-haircuts-women-spiked-pixie-undercut_x8b5lp.jpg",
@@ -195,6 +204,7 @@
 		},
 		{
 			"id": 10,
+			"type": "barber",
 			"name": "Julia Wambui",
 			"email": "juliawambui@test.com",
 			"imageUr": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234043/trim-time/woman-with-short-haircut-and-shaved-side_f0yssz.jpg",
