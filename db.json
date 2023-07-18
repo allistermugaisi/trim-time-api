@@ -13,7 +13,7 @@
 		{
 			"id": 1148,
 			"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/2-feminine-blonde-short-haircut-with-skin-fade_m2ebp4.jpg",
-			"type": "client",
+			"type": "owner",
 			"name": "John Doe",
 			"email": "johndoe@example.com",
 			"password": "test@123",
@@ -175,9 +175,201 @@
 			]
 		}
 	],
-	"appointments": [],
-	"payments": [],
-	"reviews": [],
+	"appointments": [
+		{
+			"id": 5650,
+			"checkin_date": "2023-07-25",
+			"phone": "0790516067",
+			"service": "Choose a service",
+			"client": {
+				"id": 1148,
+				"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/2-feminine-blonde-short-haircut-with-skin-fade_m2ebp4.jpg",
+				"type": "client",
+				"name": "John Doe",
+				"email": "johndoe@example.com",
+				"password": "test@123",
+				"accept_terms": true,
+				"confirm_password": "test@123"
+			},
+			"amount": 20000,
+			"barber": {
+				"id": 1,
+				"name": "Scott Logan",
+				"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233942/trim-time/Low-fade-haircut-with-full-beard-gray-abbas_ahmadifard_yth3fp.jpg",
+				"price": 20000,
+				"location": "Nairobi, Kenya",
+				"experience": 4,
+				"rating": 4.5,
+				"clients": 372,
+				"services": [
+					"Hair + beard haircut",
+					"Men's haircut",
+					"Hairstyling",
+					"Razor shave",
+					"Head camo"
+				]
+			},
+			"date": "18/07/2023",
+			"status": "Awaiting payment"
+		}
+	],
+	"payments": [
+		{
+			"id": 31458,
+			"BusinessShortCode": "174379",
+			"Msisdn": "254790516067",
+			"Amount": "1",
+			"client": {
+				"id": 1148,
+				"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/2-feminine-blonde-short-haircut-with-skin-fade_m2ebp4.jpg",
+				"type": "client",
+				"name": "John Doe",
+				"email": "johndoe@example.com",
+				"password": "test@123",
+				"accept_terms": true,
+				"confirm_password": "test@123"
+			},
+			"appointment": {
+				"id": 5650,
+				"checkin_date": "2023-07-25",
+				"phone": "0790516067",
+				"service": "Choose a service",
+				"client": {
+					"id": 1148,
+					"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/2-feminine-blonde-short-haircut-with-skin-fade_m2ebp4.jpg",
+					"type": "client",
+					"name": "John Doe",
+					"email": "johndoe@example.com",
+					"password": "test@123",
+					"accept_terms": true,
+					"confirm_password": "test@123"
+				},
+				"amount": 20000,
+				"barber": {
+					"id": 1,
+					"name": "Scott Logan",
+					"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233942/trim-time/Low-fade-haircut-with-full-beard-gray-abbas_ahmadifard_yth3fp.jpg",
+					"price": 20000,
+					"location": "Nairobi, Kenya",
+					"experience": 4,
+					"rating": 4.5,
+					"clients": 372,
+					"services": [
+						"Hair + beard haircut",
+						"Men's haircut",
+						"Hairstyling",
+						"Razor shave",
+						"Head camo"
+					]
+				},
+				"date": "18/07/2023",
+				"status": "Awaiting payment"
+			},
+			"date": "18/07/2023",
+			"status": "Paid"
+		}
+	],
+	"reviews": [
+		{
+			"rating": "4",
+			"message": "Good service!",
+			"client": {
+				"id": 1,
+				"type": "client",
+				"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/v1689233937/trim-time/faded-beard-with-a-messy-top-and-mid-fade_d03usf.jpg",
+				"name": "Allister Mugaisi",
+				"email": "allistermugaisi@example.com",
+				"password": "test@123",
+				"confirm_password": "test@123",
+				"accept_terms": true
+			},
+			"barber": {
+				"id": 1,
+				"name": "Scott Logan",
+				"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233942/trim-time/Low-fade-haircut-with-full-beard-gray-abbas_ahmadifard_yth3fp.jpg",
+				"price": 20000,
+				"location": "Nairobi, Kenya",
+				"experience": 4,
+				"rating": 4.5,
+				"clients": 372,
+				"services": [
+					"Hair + beard haircut",
+					"Men's haircut",
+					"Hairstyling",
+					"Razor shave",
+					"Head camo"
+				]
+			},
+			"date": "18/07/2023",
+			"id": 1
+		},
+		{
+			"rating": "2",
+			"message": "Service took so long!",
+			"client": {
+				"id": 1,
+				"type": "client",
+				"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/v1689233937/trim-time/faded-beard-with-a-messy-top-and-mid-fade_d03usf.jpg",
+				"name": "Allister Mugaisi",
+				"email": "allistermugaisi@example.com",
+				"password": "test@123",
+				"confirm_password": "test@123",
+				"accept_terms": true
+			},
+			"barber": {
+				"id": 2,
+				"name": "Keith Miller",
+				"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233938/trim-time/beard-with-mid-fade_tfi0cq.jpg",
+				"price": 17100,
+				"location": "Mombasa, Kenya",
+				"experience": 2,
+				"rating": 4.5,
+				"clients": 301,
+				"services": [
+					"Haircut machine",
+					"Stacking",
+					"Hairstyling",
+					"Razor shave",
+					"Head camo"
+				]
+			},
+			"date": "18/07/2023",
+			"id": 2
+		},
+		{
+			"rating": "3",
+			"message": "Great work!",
+			"client": {
+				"id": 1,
+				"type": "client",
+				"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/v1689233937/trim-time/faded-beard-with-a-messy-top-and-mid-fade_d03usf.jpg",
+				"name": "Allister Mugaisi",
+				"email": "allistermugaisi@example.com",
+				"password": "test@123",
+				"confirm_password": "test@123",
+				"accept_terms": true
+			},
+			"barber": {
+				"id": 1,
+				"name": "Scott Logan",
+				"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233942/trim-time/Low-fade-haircut-with-full-beard-gray-abbas_ahmadifard_yth3fp.jpg",
+				"price": 20000,
+				"location": "Nairobi, Kenya",
+				"experience": 4,
+				"rating": 4.5,
+				"clients": 372,
+				"services": [
+					"Hair + beard haircut",
+					"Men's haircut",
+					"Hairstyling",
+					"Razor shave",
+					"Head camo"
+				]
+			},
+			"date": "18/07/2023",
+			"id": 3
+		}
+	],
 	"rewards": [],
 	"notifications": []
 }
