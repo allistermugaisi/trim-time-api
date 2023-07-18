@@ -235,7 +235,7 @@
 			"experience": 7,
 			"rating": 0,
 			"clients": 0,
-			"services": "Haircut machine",
+			"services": ["Haircut machine"],
 			"password": "test@123",
 			"confirm_password": "test@123",
 			"accept_terms": true
