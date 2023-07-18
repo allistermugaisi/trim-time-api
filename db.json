@@ -25,6 +25,7 @@
 		{
 			"id": 1,
 			"name": "Scott Logan",
+			"email": "scottlogan@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233942/trim-time/Low-fade-haircut-with-full-beard-gray-abbas_ahmadifard_yth3fp.jpg",
 			"price": 20000,
 			"location": "Nairobi, Kenya",
@@ -37,11 +38,15 @@
 				"Hairstyling",
 				"Razor shave",
 				"Head camo"
-			]
+			],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 2,
 			"name": "Keith Miller",
+			"email": "keithmiller@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233938/trim-time/beard-with-mid-fade_tfi0cq.jpg",
 			"price": 17100,
 			"location": "Mombasa, Kenya",
@@ -54,11 +59,15 @@
 				"Hairstyling",
 				"Razor shave",
 				"Head camo"
-			]
+			],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 3,
 			"name": "Shawn Sims",
+			"email": "shawnsims@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233940/trim-time/full-beard-and-undercut-fade_c2e1ed.jpg",
 			"price": 18500,
 			"location": "Kiambu, Kenya",
@@ -71,33 +80,45 @@
 				"Hairstyling",
 				"Razor shave",
 				"Head camo"
-			]
+			],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 4,
 			"name": "Marcus Tyler",
+			"email": "marcustyler@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233937/trim-time/long-messy-top-with-a-faded-beard-for-men_zijrhs.jpg",
 			"price": 16000,
 			"location": "Machakos, Kenya",
 			"experience": 1,
 			"rating": 4.2,
 			"clients": 189,
-			"services": ["Hairstyling", "Razor shave", "Head camo"]
+			"services": ["Hairstyling", "Razor shave", "Head camo"],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 5,
 			"name": "Eric Cross",
+			"email": "ericcross@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233937/trim-time/7374005ebb2fb14f77171024529dc17e_xm6xht.jpg",
 			"price": 15215,
 			"location": "Kisumu, Kenya",
 			"experience": 2,
 			"rating": 5,
 			"clients": 64,
-			"services": ["Men's haircut", "Razor shave", "Beard / Head camo"]
+			"services": ["Men's haircut", "Razor shave", "Beard / Head camo"],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 6,
 			"name": "Virginia Clarke",
+			"email": "virginiaclarke@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234043/trim-time/modern-hairstyles-1x1-1_csrdvn.jpg",
 			"price": 13005,
 			"location": "Kericho, Kenya",
@@ -110,11 +131,15 @@
 				"Hairstyling",
 				"Razor shave",
 				"Head camo"
-			]
+			],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 7,
 			"name": "Jane Nguma",
+			"email": "janenguma@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234045/trim-time/short-hairstyles-for-women-over-50_r566fd.jpg",
 			"price": 14200,
 			"location": "Nyali, Kenya",
@@ -127,11 +152,15 @@
 				"Hairstyling",
 				"Razor shave",
 				"Head camo"
-			]
+			],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 8,
 			"name": "Mercy Njebiu",
+			"email": "mercynjebiu@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/2-feminine-blonde-short-haircut-with-skin-fade_m2ebp4.jpg",
 			"price": 12300,
 			"location": "Ngong, Kenya",
@@ -144,22 +173,30 @@
 				"Hairstyling",
 				"Razor shave",
 				"Head camo"
-			]
+			],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 9,
 			"name": "Nancy Akinyi",
+			"email": "nancyakinyi@test.com",
 			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/hottest-short-haircuts-women-spiked-pixie-undercut_x8b5lp.jpg",
 			"price": 11000,
 			"location": "Eldoret, Kenya",
 			"experience": 3,
 			"rating": 4.1,
 			"clients": 63,
-			"services": ["Hairstyling", "Razor shave", "Head camo"]
+			"services": ["Hairstyling", "Razor shave", "Head camo"],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		},
 		{
 			"id": 10,
 			"name": "Julia Wambui",
+			"email": "juliawambui@test.com",
 			"imageUr": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234043/trim-time/woman-with-short-haircut-and-shaved-side_f0yssz.jpg",
 			"price": 14150,
 			"location": "Nyandarua, Kenya",
@@ -172,7 +209,26 @@
 				"Hairstyling",
 				"Razor shave",
 				"Head camo"
-			]
+			],
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
+		},
+		{
+			"id": 4891,
+			"type": "barber",
+			"name": "Cynthia Moraa",
+			"email": "cynthiamoraa@test.com",
+			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233938/trim-time/12_Curly_Fade_Haircut_with_Facial_Hair.width-800_lhohhu.jpg",
+			"price": 13570,
+			"location": "Nyali, Kenya",
+			"experience": 7,
+			"rating": 0,
+			"clients": 0,
+			"services": "Haircut machine",
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
 		}
 	],
 	"appointments": [
