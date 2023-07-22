@@ -19,6 +19,26 @@
 			"password": "test@123",
 			"accept_terms": true,
 			"confirm_password": "test@123"
+		},
+		{
+			"id": 3750,
+			"type": "client",
+			"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233937/trim-time/6._Buzz_cut_and_matching_beard_length_.width-800_wdjzng.jpg",
+			"name": "Mark",
+			"email": "mark@example.com",
+			"password": "test@123",
+			"confirm_password": "test@123",
+			"accept_terms": true
+		},
+		{
+			"id": 7924,
+			"type": "client",
+			"profile": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689233940/trim-time/full-beard-and-undercut-fade_c2e1ed.jpg",
+			"name": "ian",
+			"email": "martoeezy@gmail.com",
+			"password": "12345678",
+			"confirm_password": "12345678",
+			"accept_terms": true
 		}
 	],
 	"barbers": [
@@ -238,6 +258,22 @@
 			"services": ["Haircut machine"],
 			"password": "test@123",
 			"confirm_password": "test@123",
+			"accept_terms": true
+		},
+		{
+			"id": 4064,
+			"type": "barber",
+			"name": "Marto",
+			"email": "petemossmanagement@gmail.com",
+			"imageUrl": "https://res.cloudinary.com/dgisuffs0/image/upload/q_auto/v1689234044/trim-time/hottest-short-haircuts-women-spiked-pixie-undercut_x8b5lp.jpg",
+			"price": 18369,
+			"location": "Machakos, Kenya",
+			"experience": 7,
+			"rating": 4,
+			"clients": 484,
+			"services": ["Hair + beard haircut"],
+			"password": "12345678",
+			"confirm_password": "12345678",
 			"accept_terms": true
 		}
 	],
